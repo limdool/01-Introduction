@@ -8,10 +8,10 @@ utils.clear()
 print('Hello, my name is Huiyong Lim')
 
 print ('What is your favorite game?')
-print ('My favorite game is Candy Crush Saga.')
+print ('My favorite game is Candy Crush Saga. It is really interesting.')
 
 print ('What concerns do you have about this class?')
-print ('I have concerns about doing assignments correctly.')
+print ('I have concerns about doing assignments correctly. I am not good at programming.')
 
 print ('What are you excited about (in general)?')
 print ('I am generally excited about my first year of college.')
