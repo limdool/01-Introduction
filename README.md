@@ -11,7 +11,7 @@ Please display the following questions and their answers by writing a Python pro
 * What is your stackoverflow.com user number?
 * What is the URL to your github.com profile?
 
-Please do the following to complete the assignment
+Please do the following to complete the assignment: 
 
 * Create an account on [stackoverflow.com](https://stackoverflow.com).
 * Create an account on [github.com](https://github.com).
