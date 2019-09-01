@@ -2,7 +2,7 @@
 
 Hello, class! This is the first assignment for MSCH-C220. The requirements for this assignment are as follows:
 
-Write a Python program that displays answers to the following questions:
+Please display the following questions and their answers by writing a Python program:
 
 * What is your name?
 * What is your favorite game?
@@ -11,7 +11,7 @@ Write a Python program that displays answers to the following questions:
 * What is your stackoverflow.com user number?
 * What is the URL to your github.com profile?
 
-In order to complete the assignment, you will need to do the following:
+Please do the following to complete the assignment
 
 * Create an account on [stackoverflow.com](https://stackoverflow.com).
 * Create an account on [github.com](https://github.com).
@@ -21,37 +21,37 @@ In order to complete the assignment, you will need to do the following:
 
 ---
 
-If you want more detailed instructions, here are the steps to follow:
+Here are more detailed instructions. Please follow them if you need to.
 
-1. Log into your account on [github.com](github.com)
+1. Please log into your account on [github.com](github.com)
 2. Go to the [assignment template page](https://github.com/BL-MSCH-C220-F19/01-Introduction) on GitHub
-3. There is a button in the top right corner of the page labeled "Fork". Press that now
-4. A modal window will appear asking you where you want to fork the repository. Select your account. This will create an independent copy of this repository in your account that you can begin to edit
-5. Go to your GitHub home page, and select the new 01-Introduction repository
-6. On that page, you will see a green button labeled "Clone or download". Press that now. You will see a drop down box that contains the following: "Clone with HTTPS". Inside the dropdown, you will see a box containing an URL. Next to the box is an icon that looks like a clipboard with an arrow pointing to it. Click that icon now
-7. Open VS Code. When the program opens, push the F1 key. In the box that opens, type "Git: Clone". Hit enter. In the box that then opens, paste the URL you copied from GitHub. Select a location for the repository; on Windows, the default is something like c:\Users\(username)\Documents\01-Introduction. VS Code will now clone (download) a copy of the code to your computer
-8. VS Code should give you an opportunity to enter your username and password. If you see a dialogue asking if you want VS Code to check for changes periodically, you can select "No" 
-9. Once VS Code has cloned (downloaded) the code, it will be responsible for keeping the code on your local computer synchronized with the repository in your GitHub account. In the panel to the left of the current window, you should see a list of the files you have downloaded
+3. You will see the button in the right corner saying "Fork". Please click that.
+4. A modal window will appear. It will ask you where you want to fork the repository. Please choose your account. It will create a copy of this repository in your account that you can start editing.
+5. Please go to your GitHub home page and select the new 01-Introduction repository.
+6. On the page, you will see a green button saying "Clone with HTTPS". Click the button. Inside the dropdown, you should be able to see a box containing an URL. You will also see an icon that looks like a clipboard with an arrow. Please click the icon that looks like a clipboard with an arrow.
+7. Please open VS code. When it opens, push the F1 key. When the box opens, type "Git: Clone". Press the enter key. Then the box will open. When it opens, paste the URL you copied from GitHub. Locate the repository. On windows, the default will say something like c:\Users\(username)\Documents\01-Introduction. VS Code will download a copy of the code to your computer. 
+8. You will receive an opportunity of entering your username and password. If a dialogue shows up and asks if you want VS Code to check for changes periodically, you can choose "No".
+9. Once VS Code has downloaded the code, it will be in charge of keeping the code on your computer synchronized with the repository in your GitHub account. A list of the downloaded files will be on the left side of the current window. 
 
 ---
 
-10. First, edit the file called LICENSE. Replace the [year] [fullname] with the current year and your name (e.g., 2019 Jason Francis). Save this file
-11. Then edit the file called main.py. This is the python code for this assignment. Replace the line "print('Hello, Class!')" with a line that answers the first question for the assignment (e.g., "print('Hello, my name is Jason Francis')")
-12. Add additional lines to answer the other questions from the list above. Be creative and descriptive, but remember that this information will be publically available. When you are done, save the file
-13. You should test your code by right-clicking on the code and selecting "Run Python File in Terminal". The results will appear at the bottom. Make sure everything looks the way you would expect
-14. Open the README.md file (which, at this point contains all this information). The purpose of this file is to describe what you code does, so edit it to describe what you are trying to accomplish with your code. Write in your own voice, and try to be helpful to anyone who downloads this project. What are you hoping to accomplish? What should someone expect to see when they run your code? When you are done editing README.md, save the file
+10. First of all, you need to edit the file called LICENSE. Please change [year] into the current year and [fullname] into your full name. (2019 Huiyong Lim). Save the file.
+11. Next, you have to edit the file called main.py. This python code is for this assignment. Change the line "print('Hello, Class!')" into the answer of the first question. ('Hello, my name is Huiyong Lim')")
+12. Please add the extra lines to answer the remaining questions from the list above. Please be creative and escriptive. Also remember that this information will be publically available. After finishing your work, please save the file.
+13. Remember to test your code. Right click on the code and select "Run Python File in Terminal". You will be able to see the results at the bottom. If the results do not look like you expected, please correct them.
+14. After checking your results, open the README.md file, a file cotaining all this information. The purpose of this file is to describe what your code does. Therefore, edit it to describe what did you try to accomplish with your code. Write it in your own words and try to help anyone who will be working on this project. What are you trying to do? When other people run your code, what should they see? When you are done editing README.md, please save the file.
 
 ---
 
-15. When you are done editing the files, you should see an icon on the far-left bar that looks like three circles, connected by lines. That icon should be badged with a "3". Push that button now
-16. At the top of the leftmost area, you should see a text box labeled "Message". Add a message that describes what you have done; these messages are typically stated in the active-present tense. For example, "Updates the LICENSE, README.md, and completes the assignment." Click the check mark above the text box to commit your changes
-17. In the drop down to the right of the check mark, select "Push"
-18. Check out your page on GitHub. You should see the changes you made reflected there, Repeat steps 10 through 17 as necessary
-19. When you are satisfied with your efforts, turn in a URL to your repository on Canvas
+15. After editing the files, you should be able to see an icon on your left side that looks like three circles, connected by lines. Click the icon. 
+16. At the top of the leftmost area, you should be able to see a box labeled "Message". Add a message describing what you have done. These messages are usually stated in the active-present tense. For example, "Updates the LICENSE, README.md, and completes the assignment." After typing the message, click the check mark above the text box to commit the changes.
+17. You will see "Push" in the drop down to the right of the check mark. Please choose "Push". 
+18. Go to GitHub and check out your page. You should be able to see the changes you made. If needed, please repeat steps 10 to 17.
+19. When you believe you have done enough, turn in a URL to repository on Canvas.
 
 ---
 
-The grading criteria will be as follows:
+Rubric:
 
 * [1 point] Assignment turned in on time
 * [1] Repository contains an appropriate software license
